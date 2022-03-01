@@ -7,8 +7,10 @@ Data Science Portfolio
 * Once the model is built, we are going to export it to a pickle file and then we will write a python flask server which will consume this pickle file and do price prediction for us.
 * This python flask server will expose HTTP endpoints for various requests and the UI written in HTML/CSS/JavaScript will make HTTP Get and Post calls.
 * In terms of tools and technology we will use python as programming language, Pandas for data cleaning, Matplotlib for data visualization, Sklearn for model building, python flask for a back-end server, HTML/CSS/JavaScript for building our website.
+* Before and after removing Outliers:
 
 ![](/images/1%20tbr52QE8lXy60Ta-zOqsbA.png)
+
 ![](/images/1%20rVSk8IsLuNwgtU8zgEAtkw.png)
 
 # [Project 2: Sports Person Classifier: Project Overview](https://github.com/KrutikaDesai02/SportsPersonClassifier)
@@ -16,6 +18,8 @@ Data Science Portfolio
 * We have used Fatkun Chrome Tool to gather images and did data cleaning using Haar Cascade from OpenCV. We did feature eEngineering using Wavelet Transforms
 * We will build a model first, hyper tune it, exported to a file, then we will run a python flask server and our website will make a call to that python flask server. 
 * From our website we drop an image of Sport person to identify his/her name.
+* Heat Map: 
 
 ![](/images/index.png)
+
 

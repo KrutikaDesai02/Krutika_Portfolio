@@ -1,5 +1,8 @@
 # Krutika_Portfolio
 Data Science Portfolio
+ - [Project 1: House Price Prediction - Machine learning project (Regression)](https://github.com/KrutikaDesai02/HousePricePrediction)
+ - [Project 2: Sports Person Classifier - Machine learning project (Classification)](https://github.com/KrutikaDesai02/SportsPersonClassifier)
+ - [Project 3: Sales Insights - Data Analyst project (Tableau)](https://github.com/KrutikaDesai02/SalesInsights)
 
 # [Project 1: House Price Prediction: Project Overview](https://github.com/KrutikaDesai02/HousePricePrediction)
 * Build a model that predict property price based on certain features such as bedroom, bathroom, sq feet, location etc. So, the task is to build a website using HTML/CSS/JavaScript that predicts estimated price for your house.
@@ -42,7 +45,7 @@ Data Science Portfolio
 
  ![](/images/virat5.png)
 
-# [Project 3: Sales Insights](https://github.com/KrutikaDesai02/SalesInsights)
+# [Project 3: Sales Insights: Project Overview](https://github.com/KrutikaDesai02/SalesInsights)
 * Tableau is a BI and data analysis platform. It went on to become very popular because every corporate wanted to study its data in a short time frame and collaborate with the employees in the organization. Visualization is a great way to analyze a huge amount of data and that is exactly what Tableau does. Tableau has helped leading industries cut down their analysis time and make their business more data-driven while ensuring flexibility, security, and reliability.
 * Our case study is based on a computer hardware business which is facing challenges in dynamically changing market, so we build Tableau dashboard that can give real time sales insights and based on that company can take their decision. we’ll go over project planning then we’ll build a dashboard in Tableau step by step.
 * This Sales Insights project carries different steps :
